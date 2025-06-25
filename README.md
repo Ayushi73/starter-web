@@ -16,6 +16,8 @@ bla bla bla this is the Deployment text...
 
 # How To Contribute
 
+Please frok this repository and then issue pull requests for review.
+
 ###Copyright
 
 2025 Git Training
