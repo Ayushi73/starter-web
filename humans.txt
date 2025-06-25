@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Ayushi Pandey -- Software Engineer -- AP
 
 # THANKS
 
