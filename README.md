@@ -21,4 +21,4 @@ Please frok this repository and then issue pull requests for review.
 
 ###Copyright
 
-2025 Git Training
+2025 Git Training. All rights reserved.
